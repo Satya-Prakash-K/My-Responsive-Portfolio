@@ -1,4 +1,13 @@
-# My-Responsive-Portfolio-
-My portfolio 
-https://satya-prakash-protfolio.netlify.app/
-here you go 
+# Responsive Portfolio Website 
+## [Click Here](https://satya-prakash-protfolio.netlify.app/)
+### Responsive Portfolio Website
+
+- Responsive Portfolio Website Design Using HTML CSS & JavaScript
+- Contains animations when scrolling.
+- Smooth scrolling in each section.
+- Contains a beautiful dark theme.
+- The color of the project can be customized.
+- Sending emails in the contact section.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+
